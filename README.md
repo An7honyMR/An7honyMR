@@ -1,4 +1,12 @@
-## Hi there 👋
+## BIENVENIDOS 👋
+
+Soy **Anthony Mora**, estudiante de **Ingeniería en Ciencias de la Computación**. Me gusta escribir código y el reto que representa resolver un problema mediante la ayuda de algoritmos.
+
+> ### Habilidades
+> - Java
+> - Diseño gráfico
+> - Fotografía
+> - COmunicación efectiva 
 
 <!--
 **An7honyMR/An7honyMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
